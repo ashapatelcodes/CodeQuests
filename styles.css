@@ -1,7 +1,7 @@
 .image-container {
-  position: relative;
-  width: 100vw;   /* Full viewport width */
-  height: 100vh;  /* Full viewport height */
+  position: relative; 
+  width: 100vw;   /* Full viewing width */
+  height: 100vh;  /* Full viewing height */
   overflow: hidden;
 }
 
